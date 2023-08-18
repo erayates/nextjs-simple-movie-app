@@ -79,4 +79,7 @@
     z-index: -2;
     max-height: 100vh;
     object-fit: cover;
+    object-position: center center;
+    opacity: 0.5;
+
   }
