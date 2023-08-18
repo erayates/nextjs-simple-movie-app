@@ -5,6 +5,7 @@
 <a href="https://medium.com/@erayatesdev">Medium</a>
 </p>
 <p align="center">This project created to practice Next.js contepts. </p>
+<p align="center">Thanks to <a href="https://www.youtube.com/@pekcanmehmet">Mehmet Pekcan</a> for him youtube series about Next.js</p>
 <hr>
 <h3 align="center">⏺️ Live Demo</h3>
 <p align="center"><a target="_blank" href="https://nextjs-simple-movie-app.vercel.app">Nextjs Movie App</a></p>
